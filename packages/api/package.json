@@ -28,7 +28,7 @@
     "cors": "^2.8.5",
     "depcheck": "^1.4.7",
     "drizzle-orm": "^0.31.2",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "marked": "catalog:",
     "posthog-node": "^4.0.1",
     "typescript": "catalog:",
@@ -42,7 +42,7 @@
     "@types/node": "catalog:",
     "@types/ws": "^8.5.10",
     "drizzle-kit": "^0.22.7",
-    "vite": "^5.2.11",
+    "vite": "^5.2.14",
     "vite-node": "^1.6.0",
     "vitest": "^1.6.0"
   }
